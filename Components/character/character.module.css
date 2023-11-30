@@ -1,0 +1,9 @@
+.wrapper {
+  border: 1px solid black;
+  width: 15rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem 2rem;
+  padding: 1rem;
+}
